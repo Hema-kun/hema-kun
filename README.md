@@ -5,8 +5,12 @@
   <br> SDE💻<br></h2> 
   <p>Currently use javascript for develop and automation testing, also in weekend sometime i learn Java</p>
 
-
 ### 📫 How to reach me: herupurnama47.hp@gmail.com
+<h3 align="left">❤️ Let's get connected::</h3>
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-hema" height="30" width="40" /></a>
+<a href="https://www.hackkerank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hackerank-hema" height="30" width="40" /></a>
+</p>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
