@@ -22,7 +22,7 @@
 ### Automation
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://appium.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="appium" width="40" height="40"/> </a> 
+<a href="https://appium.com" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/appium.svg" alt="appium" width="40" height="40"/> </a> 
 
 ### Version Control
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
