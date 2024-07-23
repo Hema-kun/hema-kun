@@ -3,8 +3,7 @@
   Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   <br> नमस्ते (Namaste)🙏🏻, I'm Hema <br>
 </h3>
-  <h3>SDE💻</h3>
-  <h4>Doing Software Development and Test Engineer</h4>
+  <h3>SDE💻 <span>  <h4>Doing Software Development and Test Engineer</h4></span></h3>
 <h2 align="left"></h2>
 
 ### 📫 How to reach me: herupurnama47.hp@gmail.com
