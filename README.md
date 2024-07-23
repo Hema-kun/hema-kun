@@ -1,8 +1,9 @@
 <h2 align=left> 💻 About </h2>
-  
+  <h3>
   <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> <br>
   <br> नमस्ते (Namaste)🙏🏻, I'm Hema <br>
-  <br> Doing Software Development and Test Engineer <br>
+  </h3>
+  <br> <h4>Doing Software Development and Test Engineer</h4> <br>
 
   
 ### 📫 How to reach me: herupurnama47.hp@gmail.com
