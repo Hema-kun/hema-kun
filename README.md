@@ -11,8 +11,7 @@
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerank-hema" height="30" width="40" /></a>
 
  
-##🛠️ Technologies and Tools I use
-
+## 🛠️ Technologies and Tools I use
 ### Languages
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.javascript.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> </a> 
