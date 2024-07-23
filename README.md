@@ -10,10 +10,6 @@
 <p align="left">
 <a href="https://linkedin.com/herupurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-hema" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerank-hema" height="30" width="40" /></a>
-</p>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
  
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 
