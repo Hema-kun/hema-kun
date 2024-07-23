@@ -16,8 +16,8 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
+ 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
-
 ### Languages
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.javascript.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> </a> 
