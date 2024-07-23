@@ -5,7 +5,6 @@
 </h3>
 
 
-<h2 align=left> Connect to Me <h2>
   
 ### 📫 How to reach me: herupurnama47.hp@gmail.com
 <h5 align="left">❤️ Let's get connected::</h5>
