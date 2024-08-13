@@ -11,7 +11,7 @@ Hello, I'm Hema, a Software Engineer dedicated in development and automated test
 <a href="https://medium.com/@herupurnama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@herupurnama" height="30" width="40" /></a>
 
 ## Tech Stack
-Technologies and tools I am used in:
+Technologies and tools in:
 
 | Programming Languages                                                                                            | Frameworks & Libraries                                                                                         | Databases        | API Tools                                                                                               | DevOps & Tools                                                                                          | Testing & Management |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------|
