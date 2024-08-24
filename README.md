@@ -9,7 +9,7 @@ Hello, I'm Hema, a Software Engineer dedicated in development and automated test
 <a href="https://linkedin.com/herupurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-hema" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerank-hema" height="30" width="40" /></a>
 <a href="https://medium.com/@herupurnama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@herupurnama" height="30" width="40" /></a>
-
+<!--
 ## Tech Stack
 Technologies and tools in:
 
@@ -19,7 +19,7 @@ Technologies and tools in:
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)                   | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | | | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)    | ![Spreadsheet](https://img.shields.io/badge/-Spreadsheet-009688?style=flat-square&logo=google&logoColor=white) |
 | | ![Appium](https://img.shields.io/badge/-Appium-8E4D76?style=flat-square&logo=appium&logoColor=white)           |  |                                                                                                         |                                                                                                         |           |
 
-<!-- ## Experience
+ ## Experience
 
 | Description                                                                                                                                                                                                                                                                                                                                     | Media & Links |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
