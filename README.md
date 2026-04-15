@@ -18,4 +18,4 @@ Someone who has a high curiosity in objective and detail about product developme
 
 ---
 --!>
-> “Test early, test often, and automate where it matters.” 
+> “Find way. Solve it. Evaluate.” 
